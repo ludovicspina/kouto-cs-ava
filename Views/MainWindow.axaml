@@ -1,0 +1,31 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Kouto_clean.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Kouto_clean.Views.MainWindow"
+        x:DataType="viewModels:MainViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Kouto_clean"
+        Width="1000"
+        Height="700"
+        ExtendClientAreaToDecorationsHint="True"
+        ExtendClientAreaChromeHints="NoChrome"
+        ExtendClientAreaTitleBarHeightHint="30"
+        TransparencyLevelHint="Blur"
+        Background="Transparent"
+        xmlns:controls="clr-namespace:Kouto_clean.Controls"
+        xmlns:viewModels="clr-namespace:Kouto_clean.ViewModels">
+
+    <Window.DataContext>
+        <viewModels:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid ColumnDefinitions="Auto,*" RowDefinitions="Auto,*">
+        <controls:TitleBarControl Grid.Row="0" Grid.ColumnSpan="2"/>
+        <controls:NavigationSidebarControl Grid.Row="1" Grid.Column="0"/>
+        <ContentControl Grid.Row="1" Grid.Column="1" Content="{Binding CurrentViewModel}"/>
+    </Grid>
+
+</Window>

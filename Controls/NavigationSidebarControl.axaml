@@ -1,0 +1,12 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Kouto_clean.Controls.NavigationSidebarControl"
+             xmlns:vm="using:Kouto_clean.ViewModels.Pages"
+             xmlns:local="clr-namespace:Kouto_clean.Services"
+             Background="#1C1C1C">
+
+    <StackPanel Margin="1">
+        <Button Content="🏠 Dashboard" Margin="1 32 1 1" Click="Dashboard_Click" Foreground="AliceBlue" Background="Transparent"/>
+        <Button Content="🛠 Installation" Margin="1 1 1 1" Click="Install_Click" Foreground="AliceBlue" Background="Transparent"/>
+    </StackPanel>
+</UserControl>
