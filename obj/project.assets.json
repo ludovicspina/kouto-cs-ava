@@ -1863,11 +1863,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ludov\\Documents\\Kouto-clean\\Kouto-clean.csproj",
+      "projectUniqueName": "C:\\Users\\ludov\\Documents\\kouto-cs-ava\\Kouto-clean.csproj",
       "projectName": "Kouto-clean",
-      "projectPath": "C:\\Users\\ludov\\Documents\\Kouto-clean\\Kouto-clean.csproj",
+      "projectPath": "C:\\Users\\ludov\\Documents\\kouto-cs-ava\\Kouto-clean.csproj",
       "packagesPath": "C:\\Users\\ludov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ludov\\Documents\\Kouto-clean\\obj\\",
+      "outputPath": "C:\\Users\\ludov\\Documents\\kouto-cs-ava\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ludov\\AppData\\Roaming\\NuGet\\NuGet.Config"

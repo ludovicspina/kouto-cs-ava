@@ -1,3 +1,12 @@
-﻿namespace Kouto_clean.ViewModels.Pages;
+﻿using Avalonia.Controls;
 
-public class DashboardViewModel : ViewModelBase { }
+namespace Kouto_clean.Views.Pages
+{
+    public partial class DashboardView : UserControl
+    {
+        public DashboardView()
+        {
+            InitializeComponent();
+        }
+    }
+}

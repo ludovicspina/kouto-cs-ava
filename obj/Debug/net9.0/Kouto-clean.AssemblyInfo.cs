@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kouto-clean")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b62b810fcefc670e7ce2217c1a3fa729831c8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kouto-clean")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kouto-clean")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,9 @@
 ﻿<UserControl xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:vm="using:Kouto_clean.ViewModels.Pages"
-             xmlns:pages="clr-namespace:Kouto_clean.ViewModels.Pages">
+             xmlns:vm="clr-namespace:Kouto_clean.ViewModels.Pages"
+             xmlns:pages="clr-namespace:Kouto_clean.ViewModels.Pages"
+             x:Class="Kouto_clean.Views.Pages.DashboardView">
+
     <UserControl.DataContext>
         <pages:DashboardViewModel/>
     </UserControl.DataContext>

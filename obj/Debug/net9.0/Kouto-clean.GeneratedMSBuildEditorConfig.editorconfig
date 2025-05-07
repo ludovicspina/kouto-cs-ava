@@ -15,23 +15,20 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kouto-clean
-build_property.ProjectDir = C:\Users\ludov\Documents\Kouto-clean\
+build_property.ProjectDir = C:\Users\ludov\Documents\kouto-cs-ava\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ludov/Documents/Kouto-clean/App.axaml]
+[C:/Users/ludov/Documents/kouto-cs-ava/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/ludov/Documents/Kouto-clean/Controls/NavigationSidebarControl.axaml]
+[C:/Users/ludov/Documents/kouto-cs-ava/Controls/NavigationSidebarControl.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/ludov/Documents/Kouto-clean/Controls/TitleBarControl.axaml]
+[C:/Users/ludov/Documents/kouto-cs-ava/Controls/TitleBarControl.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/ludov/Documents/Kouto-clean/Views/MainWindow.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/ludov/Documents/Kouto-clean/Views/Pages/DashboardView.axaml]
+[C:/Users/ludov/Documents/kouto-cs-ava/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
