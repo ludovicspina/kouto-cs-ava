@@ -3,6 +3,7 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="Controls/NavigationSidebarControl.axaml" value="Kouto-clean.csproj" />
         <entry key="Views/MainWindow.axaml" value="Kouto-clean.csproj" />
         <entry key="Views/Pages/DashboardView.axaml" value="Kouto-clean.csproj" />
       </map>
